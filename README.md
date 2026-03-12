@@ -27,15 +27,24 @@ I focus on applying quantitative methods and machine learning in finance and act
 
 ## 🛠️ Tech
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
+## 🛠️ Technical Skills
 
-**Tools**
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+### Programming & data
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Data analysis & visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+
+### Development & environment
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -43,5 +52,5 @@ I focus on applying quantitative methods and machine learning in finance and act
 
 - 💼 LinkedIn: www.linkedin.com/in/
 - 🧑‍💻 GitHub: https://github.com/joelmw24
-- 📧 Email: joel.mwemba@gmail.com
+- 📧 Email: joel.mwemba@isen-ouest.yncrea.fr
 
