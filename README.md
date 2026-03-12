@@ -6,7 +6,7 @@ I focus on applying quantitative methods and machine learning in finance and act
 </p>
 
 
-## 🚀 About me
+## About me
 - 🎓 Engineering student at **ISEN Brest**
 - 📊 Specializing in **financial market**
 - 💼 Assistant **risk manager at Crédit Mutuel Arkéa**
@@ -14,7 +14,7 @@ I focus on applying quantitative methods and machine learning in finance and act
 
 ---
 
-## 🧠 Areas of interest
+## Areas of interest
 
 - Quantitative finance  
 - Risk management  
@@ -24,7 +24,7 @@ I focus on applying quantitative methods and machine learning in finance and act
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming & data
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -44,7 +44,7 @@ I focus on applying quantitative methods and machine learning in finance and act
 
 ---
 
-## 📫 Contact me
+## Contact me
 
 - 💼 LinkedIn: www.linkedin.com/in/
 - 📧 Email: joel.mwemba@isen-ouest.yncrea.fr
