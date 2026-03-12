@@ -9,8 +9,8 @@ I focus on applying quantitative methods and machine learning in finance and act
 
 ## 🚀 About me
 - 🎓 Engineering student at **ISEN Brest**
-- 📊 Specializing in **Financial marketse**
-- 💼 Assistant **Risk manager at Crédit Mutuel Arkéa**
+- 📊 Specializing in **financial market**
+- 💼 Assistant **risk manager at Crédit Mutuel Arkéa**
 - 🌍 Based in **France**
 
 ---
@@ -25,8 +25,6 @@ I focus on applying quantitative methods and machine learning in finance and act
 
 ---
 
-## 🛠️ Tech
-
 ## 🛠️ Technical Skills
 
 ### Programming & data
@@ -40,17 +38,15 @@ I focus on applying quantitative methods and machine learning in finance and act
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
-### Development & environment
+### Web development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📫 Connect with me
+## 📫 Contact me
 
 - 💼 LinkedIn: www.linkedin.com/in/
-- 🧑‍💻 GitHub: https://github.com/joelmw24
 - 📧 Email: joel.mwemba@isen-ouest.yncrea.fr
 
