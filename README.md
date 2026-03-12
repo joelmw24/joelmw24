@@ -20,7 +20,7 @@ I focus on applying quantitative methods and machine learning in finance and act
 - Quantitative finance  
 - Risk management  
 - Financial modeling  
-- Machine Learning
+- Machine Learning / AI
 - Actuary
 
 ---
