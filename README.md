@@ -5,7 +5,6 @@ Passionate about financial markets and risk modeling
 I focus on applying quantitative methods and machine learning in finance and actuary.
 </p>
 
----
 
 ## 🚀 About me
 - 🎓 Engineering student at **ISEN Brest**
