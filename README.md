@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Joël Mwemba</h1>
 
 <p align="center">
-Passionate about financial markets and risk modeling
-I focus on applying quantitative methods and machine learning in finance and actuary.
+Passionate about financial markets and risk modeling.
+I focus on applying quantitative methods and machine learning in finance.
 </p>
 
 
@@ -19,12 +19,12 @@ I focus on applying quantitative methods and machine learning in finance and act
 - Quantitative finance  
 - Risk management  
 - Financial modeling  
-- Machine Learning / AI
+- AI
 - Actuary
 
 ---
 
-## Technical Skills
+## Technical skills
 
 ### Programming & data
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
