@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Joël MWEMBA</h1>
-
 ## About me
 - 🎓 Engineering student at **ISEN Brest**
 - 📊 Specializing in **financial market**
