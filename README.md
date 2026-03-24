@@ -1,10 +1,4 @@
-<h1 align="center">Hi, I'm Joël Mwemba</h1>
-
-<p align="center">
-Passionate about financial markets and risk modeling.
-I focus on applying quantitative methods and machine learning in finance.
-</p>
-
+<h1 align="center">Hi, I'm Joël MWEMBA</h1>
 
 ## About me
 - 🎓 Engineering student at **ISEN Brest**
