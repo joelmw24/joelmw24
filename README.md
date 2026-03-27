@@ -39,5 +39,5 @@
 ## Contact me
 
 - 💼 LinkedIn: www.linkedin.com/in/
-- 📧 Email: joel.mwemba@isen-ouest.yncrea.fr
+- 📧 Email: joel.mwemba@gmail.com
 
