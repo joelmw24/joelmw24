@@ -38,6 +38,6 @@
 
 ## Contact me
 
-- 💼 LinkedIn: www.linkedin.com/in/
+- 💼 LinkedIn: www.linkedin.com/in/emmw
 - 📧 Email: joel.mwemba@gmail.com
 
