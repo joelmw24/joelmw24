@@ -1,7 +1,6 @@
 ## About me
 - 🎓 Engineering student at **ISEN Brest**
 - 📊 Specializing in **finance**
-- 💼 Assistant **risk manager at Crédit Mutuel Arkéa**
 - 🌍 Based in **France**
 
 ---
